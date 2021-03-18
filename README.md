@@ -1,5 +1,6 @@
 # ENGG1340/COMP2113
 _group project_ Mafia game_
+groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon ()
 
 ## Rules:
 1. 6 computers/ people in a game assigned with different personalities, and storylines. The choice of becoming a criminal in these 6 people is random.
