@@ -5,7 +5,7 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 ## Rules:
 1. Input the name of the player and press enter. The game will begin. If the player wants to exit, press 1.
 3. There are 6 characters and one player. At random, one of the 6 characters will become a criminal, and there will be a storyline adjusted with the chosen character.
-4. The object of the game is to find the criminal by given evidence.
+4. The objective of the game is to find the criminal by given evidence.
 5.  There will be 9 pieces of evidence, and they will be distributed in 9 different rooms at random (e.g. Master bedroom, kitchen, study room, hall, playroom, Dinning room, toilet, TV room, and library).
 6.  Contents of evidence will be depending on the choice of the criminal.
 7.  There will be 9 rooms and 9 pieces of evidence, and find all the evidence. 
@@ -23,7 +23,7 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 1. Generation of Random game sets or events:
    - The choice of the criminal will be randomly generated.
    - The distribution of the evidence will be distributed randomly in 9 different rooms.
-2. Data structure for storing game status:
+2. Data structure for storing game status: (probably use class and its data members).
    - The Player:
       - player position.
       - player name.
@@ -40,7 +40,7 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 4. File input/output:
    - All 6 scenarios will be saved as different text files, such as [character_name].txt (depending on who becomes a criminal), which will be read to randomly distribute the 9 pieces of evidence.
    - There is going to be a text file that contains a list of characters, which will be read when randomly choosing a criminal (e.g [character_list].txt file).
-   - There will be a list environment will be in a text file (e.g. [room].txt), which will be read whenever the players move from one room to another and when searching for evidence. (e.g. desk, computer and etc). 
+   - There will be a list of environment in a form of text file (e.g. [room].txt), which will be read whenever the players move from one room to another and when searching for evidence. (e.g. desk, computer and etc). 
    - Whenever a player wants to exit, the storyline, the position of the player, and position of 9 evidence will be stored in a file. 
 5. Program codes in multiple files:
    - The whole program of the game will be separated into various files, such as (.cpp and .h files).
