@@ -1,0 +1,9 @@
+Toilet 
+Library
+Hall 
+Dinning room
+Study room
+Master bedroom
+Kitchen
+Playroom
+TV room
