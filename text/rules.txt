@@ -1,0 +1,17 @@
+###############################################################
+There are going to be 9 pieces of evidence and only 5 of them are valid to solve the crime.
+
+The evidence will be randomly distributed in all 9 rooms on the map.
+
+Collect all valid pieces of evidence and 1 key to open a secret room that the criminal is hiding.
+
+Criminals have released a wild hound that can attack you, when it is nearby you have to type in "quiet".
+
+The criminal also made traps so watch out.
+
+Wrong spelling or getting into a trap will result in an empty bag.
+
+You will have 3 chances, when it is zero, the game is over. 
+
+Find the Criminal for us!
+##############################################################
