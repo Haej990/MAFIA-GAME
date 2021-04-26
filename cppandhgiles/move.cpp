@@ -9,7 +9,7 @@
 using namespace std;
 
 Move::Move(){
-  // For the movement/excute command, it requires rooms to be allocated with integers.
+  // For the movement/excute command, it requires rooms to be allocated with integers. Each corresponding int will decide the direction 
   location = 
   {
     {"study", 0}, 
@@ -22,7 +22,7 @@ Move::Move(){
     {"dining room", 6},
     {"ballroom", 7}
   };
-  
+  // list of rooms in vector STL
   string rooms[9] = {"study", "hall", "lounge", "dining room", "kitchen", "ballroom", "conservatory", "billiard room", "library"};
 }
 //print out diffent option for movement according to the location of the room 
@@ -92,7 +92,7 @@ void Move::movementloop(Map& gameMap, Inventory& bag){
   int command;
   bool youWin = false;
 
-  while (!youWin){ //check if the picked up item is a trap or not.
+  while (!youWin){ //check if the picked up item is a trap or not. 
 
     printByLocation(gameMap.get_player_position());
     cin >> command;
@@ -105,7 +105,7 @@ void Move::movementloop(Map& gameMap, Inventory& bag){
     } else if (command == 3){
       break;
     }
-    // quiet function 
+    // Call quiet function 
     cout << endl;
     gameMap.quiet(bag);
     if (gameMap.lifeCount <= 0) { // see if life count smaller or equal to zero. 
