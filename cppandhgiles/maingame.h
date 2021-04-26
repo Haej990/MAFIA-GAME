@@ -18,7 +18,6 @@ public:
   
   string getname() const;
 
-  // for debug
   void printStatus(Map& gameMap, Inventory& bag);
 
   void printRules(string &pname);
