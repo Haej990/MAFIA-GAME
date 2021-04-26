@@ -21,6 +21,5 @@ int main(){
   cout << "########## Welcome to DETECTIVE GAME! ###########" << endl;
   cout << endl;
   mainGame.startgame(gameMap, bag, movement, name);// function to run the game. 
-
   cout << "~~ Thank you for playing ~~" << endl;
 }
