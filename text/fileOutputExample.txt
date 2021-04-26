@@ -1,0 +1,15 @@
+**BAGS**
+**DISTRIBUTION**
+TV
+cigarette
+knife
+glass of wine
+recorder
+rope
+guitar
+letter
+key
+**LIFE**
+1
+**CURRENTPOSITION**
+kitchen
