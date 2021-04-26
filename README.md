@@ -13,6 +13,7 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 9.  If not, the bag/inventory will go empty.
 10. You can press integer 3 to save and exit the game. 
 11. We assume that the player input are valid inputs, except the "quiet" function. 
+12. The player only can save once, so choose wisely. 
 
 ## Features and Implementations:
 1. Generation of Random game sets or events:
