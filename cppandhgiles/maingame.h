@@ -4,7 +4,6 @@
 #include <string>
 #include <cstdlib>
 #include <iostream>
-#include "randomize.h"
 #include "inventory.h"
 #include "move.h"
 using namespace std;
