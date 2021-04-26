@@ -50,4 +50,4 @@ Use make at the command line to compile ./playgame to run
 
 ## About video demonstration
 - Case 1 : Starting the game as a new player and demonstrated the player collected all the five clues in the player's inventory
-- Case 2 : Starting the game as a new player and saved current status and exit. Showed the output textfile, which contains the player's current status. Demonstrated the player to resume his/her game with his/her current status but lost the game. 
+- Case 2 : Starting the game as a new player and saved current status and exit. Showed the output textfile, which contains the player's current status. Demonstrated the player to resume his/her game with his/her current status but lost the game eventually. 
