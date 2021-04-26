@@ -44,6 +44,6 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 6. Proper indentation and naming styles, and In-code documentation:
    - This will be shown coding and the project itself. 
 
-#To Run
+## To Run
 Use make at the command line to compile ./playgame to run
 
