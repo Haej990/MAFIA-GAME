@@ -45,6 +45,6 @@ groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
    - This will be shown coding and the project itself. 
 
 ## To Run
-We have put all the files needed (.cpp .h .txt and makefiles) in testfiles. 
+We have put all the files needed (.cpp .h .txt and makefiles) in folder name 'testfiles' . 
 Use make at the command line to compile ./playgame to run
 
