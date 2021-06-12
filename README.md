@@ -1,4 +1,4 @@
-# ENGG1340/COMP2113
+# MAFIA GAME
 _group project_ Mafia game_
 groupmates: Kim Da Hyung (3035717406) / Kim Hae Joon (3035602766)
 
